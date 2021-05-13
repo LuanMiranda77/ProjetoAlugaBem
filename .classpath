@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="biblioteca/activation.jar"/>
+	<classpathentry kind="lib" path="biblioteca/commons-email-1.3.jar"/>
+	<classpathentry kind="lib" path="biblioteca/dsn.jar"/>
+	<classpathentry kind="lib" path="biblioteca/gimap.jar"/>
+	<classpathentry kind="lib" path="biblioteca/imap.jar"/>
+	<classpathentry kind="lib" path="biblioteca/itextpdf-5.5.10.jar"/>
+	<classpathentry kind="lib" path="biblioteca/joda-time-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="biblioteca/joda-time-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="biblioteca/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="biblioteca/mailapi.jar"/>
+	<classpathentry kind="lib" path="biblioteca/pop3.jar"/>
+	<classpathentry kind="lib" path="biblioteca/smtp.jar"/>
+	<classpathentry kind="lib" path="biblioteca/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/xom-1.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/xstream-1.4.7.jar"/>
+	<classpathentry kind="lib" path="biblioteca/xstream-benchmark-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

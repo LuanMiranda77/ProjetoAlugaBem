@@ -1,0 +1,35 @@
+<Classes.Central>
+  <listaLocador/>
+  <listaBens/>
+  <listaAlugados/>
+  <admin>
+    <nome>Luan Miranda messa</nome>
+    <telefone>(84)8.4848-4848</telefone>
+    <CPF>585.555.654-54</CPF>
+    <endereco>dfedff</endereco>
+    <login>luan@gmail.com</login>
+    <senha>1</senha>
+  </admin>
+  <user>
+    <cod>0</cod>
+  </user>
+  <bem>
+    <cod>0</cod>
+    <nome></nome>
+    <descricao></descricao>
+    <quantidade>0</quantidade>
+    <valor>0.0</valor>
+    <status></status>
+    <condicao></condicao>
+    <prazo>0</prazo>
+    <vezes>0</vezes>
+    <multa>0.0</multa>
+  </bem>
+  <cod>0</cod>
+  <cont>0</cont>
+  <cod2>0</cod2>
+  <userlogado>luan@gmail.com</userlogado>
+  <us></us>
+  <end></end>
+  <CPF></CPF>
+</Classes.Central>
